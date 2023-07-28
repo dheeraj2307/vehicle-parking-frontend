@@ -1,0 +1,83 @@
+.headings{
+  color: white;
+  position: relative;
+  display: inline-block;
+  background-color: black;
+  border-radius: 25px;
+  border-width: 5px;
+  padding: 1%;
+  font-size: 1rem;
+  border-color: black;
+  margin-left: 2%;
+  left: 50%;  
+}
+
+#homeButton{
+  margin-block-start: 0;
+  margin-block-end: 0;
+  left: 2%;
+  right: 60%;  
+}
+
+#signin{
+  background-color: orangered;
+}
+
+.block{
+  font-size: 1.25rem;
+  display: block;
+  padding: 4%;
+  padding-top: 1%;
+  margin: 3%;
+  background-color: rgb(247, 201, 116);
+  border-radius: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.vehicleCard{
+  font-size: 1rem;
+  display: inline-block;
+  padding: 1%;
+  background-color: lightblue;
+  margin: 1%;
+  border-radius: 15%;
+}
+
+.headerBar{
+  background-color: black;
+  padding: 1%;
+}
+
+.body{
+  align-self: center;
+  margin-left: 5%;
+}
+
+.inputBox{
+  background-color: rgb(254, 231, 189);
+  border-color: rgb(254, 231, 189);
+  border-bottom-color : rgb(198, 125, 9);
+  border-radius: 10%;
+  border-style: hidden;
+  margin: 1%;
+}
+
+#vehicleType{
+  background-color: rgb(254, 231, 189);
+  border-color: rgb(254, 231, 189);
+  border-bottom-color : rgb(198, 125, 9);
+  border-radius: 10%;
+  border-style: hidden;
+  margin: 1%;
+}
+
+.body{
+  margin: 0;
+}
+
+.vehicleButton{
+  font-size: 100%;
+  background-color: lightblue;
+  border-radius: 10%;
+  font-family: 'Courier New', Courier, monospace;
+}
